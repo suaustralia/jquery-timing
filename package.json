@@ -1,0 +1,22 @@
+{
+  "name": "jquery-timing",
+  "version": "1.0.0",
+  "description": "A jQuery plugin that provides easy-to-use timing methods to write less and do more.",
+  "main": "jquery-timing.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suaustralia/jquery-timing.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suaustralia/jquery-timing/issues"
+  },
+  "homepage": "https://github.com/suaustralia/jquery-timing#readme"
+}
